@@ -1,0 +1,23 @@
+[
+    {
+        "region": "Chicago, IL -> Atlanta, GA",
+        "equipment_type": "Dry Van",
+        "available_loads": 140,
+        "available_trucks": 25,
+        "timestamp": "2026-10-27 12:00:00"
+    },
+    {
+        "region": "Dallas, TX -> Denver, CO",
+        "equipment_type": "Reefer",
+        "available_loads": 45,
+        "available_trucks": 50,
+        "timestamp": "2026-10-25 10:00:00"
+    },
+    {
+        "region": "Los Angeles, CA -> Phoenix, AZ",
+        "equipment_type": "Flatbed",
+        "available_loads": 95,
+        "available_trucks": 18,
+        "timestamp": "2026-10-27 14:00:00"
+    }
+]
