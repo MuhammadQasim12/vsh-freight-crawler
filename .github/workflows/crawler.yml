@@ -19,6 +19,13 @@ jobs:
         with:
           python-version: '3.10'
 
+      # --- ADD THIS NEW STEP HERE ---
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+      # -----------------------------
+
       - name: Run Scraper Script
         run: python scraper.py
 
