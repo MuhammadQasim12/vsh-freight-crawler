@@ -4,7 +4,7 @@
         "equipment_type": "Dry Van",
         "available_loads": 140,
         "available_trucks": 25,
-        "timestamp": "2026-10-30 12:39:12",
+        "timestamp": "2026-10-31 12:06:53",
         "ltr_ratio": 5.6,
         "opportunity_tier": "\ud83d\udd25 HIGH MARGIN GAP"
     },
@@ -13,7 +13,7 @@
         "equipment_type": "Flatbed",
         "available_loads": 95,
         "available_trucks": 18,
-        "timestamp": "2026-10-30 12:39:12",
+        "timestamp": "2026-10-31 12:06:53",
         "ltr_ratio": 5.28,
         "opportunity_tier": "\ud83d\udd25 HIGH MARGIN GAP"
     },
@@ -22,7 +22,7 @@
         "equipment_type": "Reefer",
         "available_loads": 80,
         "available_trucks": 15,
-        "timestamp": "2026-10-30 12:39:12",
+        "timestamp": "2026-10-31 12:06:53",
         "ltr_ratio": 5.33,
         "opportunity_tier": "\ud83d\udd25 HIGH MARGIN GAP"
     }
